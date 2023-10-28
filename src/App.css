@@ -1,0 +1,13 @@
+.container{
+    padding-left: 30px;
+}
+body {
+    background-color: #1c1c1b;
+}
+.body {
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    height: 100vh; /* Set the height to 100% of the viewport height */
+    width: 100%; /* Set the width to 100% of the viewport width */
+  }
+  

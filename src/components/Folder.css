@@ -1,0 +1,48 @@
+.alwaysshow {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    border-bottom: 1px solid #8f8f8b;
+    border-left: 1px solid #8f8f8b;
+    border-radius: 6px;
+    padding: 10px;
+    margin-bottom: 10px;
+    user-select: none;
+}
+.addnewfolder {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    border-bottom: 1px solid #8f8f8b;
+    border-left: 1px solid #8f8f8b; 
+    border-radius: 6px;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.folderName {
+    font-size: 30px;
+    color: #8f8f8b;
+    background-color: #1c1c1b;
+    border: 0px;
+}
+.buttons {
+    gap: 5px;
+    margin: 2px;
+}
+.icons {
+    font-size: 30px;
+    color: #8f8f8b;
+}
+button {
+    font-size: 30px;
+    background-color: #1c1c1b;
+    color: #8f8f8b;
+    border-radius: 6px;
+    border: 0px;
+}
+
+.name {
+    font-size: 200%;
+    color:#8f8f8b;
+}
